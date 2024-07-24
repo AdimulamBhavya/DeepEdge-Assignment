@@ -8,7 +8,7 @@ Then for resizing the image execute the file called **"resize.py"**.
 
 To perform our own image resizing. This function will replace OpenCV's cv::resize and we will compare its correctness and performance.
 
-Compile and run **"myresize.py"** to compare the performance and correctness of your implementation. 
+Compile and run **"myresize.cpp"** to compare the performance and correctness of your implementation. 
 
 You will need to link against OpenCV libraries when compiling. 
 
